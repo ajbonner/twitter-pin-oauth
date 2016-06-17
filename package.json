@@ -1,7 +1,7 @@
 {
   "name": "twitter-pin-oauth",
   "version": "1.0.0",
-  "description": "Proof of concept authentication console app using pin based oauth authentication",
+  "description": "An application of Twitter's pin based oauth authentication protocol",
   "main": "bin/auth.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
