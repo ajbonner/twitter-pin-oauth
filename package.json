@@ -1,6 +1,7 @@
 {
   "name": "twitter-pin-oauth",
   "version": "1.0.0",
+  "repository": "https://github.com/ajbonner/twitter-pin-oauth.git",
   "description": "An application of Twitter's pin based oauth authentication protocol",
   "main": "bin/auth.js",
   "scripts": {
